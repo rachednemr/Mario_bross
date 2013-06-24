@@ -1,0 +1,14 @@
+*.bmp 
+*.mp3 
+*.ttf
+*.script
+*.c
+*.cbp
+*.jpg
+*.wav
+*.png
+*.txt
+*.dll
+*.depend
+*.map
+*.layout
